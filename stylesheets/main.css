@@ -39,3 +39,14 @@ footer {
   padding: 30px;
   margin: 0px 5px 0px 20px;
 }
+
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: right;
+  width: 17%;
+  height: 200px;
+  padding: 5px;
+}
