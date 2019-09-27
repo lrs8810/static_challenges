@@ -1,0 +1,15 @@
+div {
+  color: white;
+  background-color: darkred;
+  padding: 30px;
+  margin: 20px 5px 0px 20px;
+  font-size: 2.5em;
+  font-family: Arial;
+  font-weight: bold;
+}
+
+section {
+  background-color: black;
+  padding: 30px;
+  margin: 0px 5px 20px 20px;
+}
